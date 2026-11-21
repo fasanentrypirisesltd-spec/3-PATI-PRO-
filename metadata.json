@@ -1,0 +1,6 @@
+{
+  "name": "Royal Patti — Multiplayer 3 Patti & Cashier",
+  "description": "Real-time multiplayer 3 Patti card parlor with live matchmaking, cash table buy-ins, payment gateway management, user-to-user money transfers, and hash-chained audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
